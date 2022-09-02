@@ -14,7 +14,8 @@ ml  mu  md  mr  rmb   tab al  ad  au  ar
 
 mmb v-  v+  lmb ,     .   hm  pd  pu  ed
                 ctl
-                
+layer2 layer1/enter  shift/space alt/bkspc   
+               
 
 Hybrid ctrl/fn layer for base layer
 
@@ -24,12 +25,15 @@ f8  f9  f0  f1  f2    f3  f4  f5  f6  f7
 
 `~  ct- ct+ \|  f12   mut chm cpd cpu ced
                 ctl
+nul layer0/enter  shift/space alt/del   
+
 
 p   l   d   g   v     z   k   o   u   -_
 
 n   r   t   s   w     y   h   e   i   a
 
 q   j   m   c   x     b   f   '"  ,?  ./
+layer0 layer3/enter  shift/space alt/bkspc   
 
 
 Hybrid ctrl/fn layer for alpha layer. Here, nerts chars are below Russian. ^ is compose, L switch lang. You probably don't need F9 and ctrl-enter here like I do.
@@ -42,3 +46,5 @@ ctn ctr ctt cts ctw   cty X   Э   cti cta
 
 ctq F9  ctE  ctc ctx   ctb ctf "   ?   Ё
                                @   !   –—
+                               
+null layer3/enter  shift/space alt/del   
