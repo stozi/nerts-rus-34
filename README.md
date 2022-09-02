@@ -4,7 +4,7 @@ a ZMK / Linux setup for a writing-focused 34-key nerts / Russian keyboard layout
 In Linux, set compose to pause, switch lang to rctrl.
 Instructions on what to do with the 'custom' and 'evdev' files are in those files. Copy the contents of the ZMK keymap file to yours in Github. 
 
-Open this readme raw to view layout illustration with correct spacing. If confused, refer to the ZMK codes in the keymap file.
+Open this readme raw to view layout illustration with correct spacing, some chars displayed wrong otherwise. If confused, refer to the ZMK codes in the keymap file.
 
 Base layer, mouse keys on the left. ZMK mouse keys require additional setup. If necessary, you can copy the west.yml file from my zmk-config repo.
 
@@ -14,6 +14,7 @@ ml  mu  md  mr  rmb   tab al  ad  au  ar
 
 mmb v-  v+  lmb ,     .   hm  pd  pu  ed
                 ctl
+                
 
 Hybrid ctrl/fn layer for base layer
 
@@ -40,4 +41,4 @@ ctn ctr ctt cts ctw   cty X   Э   cti cta
                           ;:  ()
 
 ctq F9  ctE  ctc ctx   ctb ctf "   ?   Ё
-                              @   !   –—
+                               @   !   –—
