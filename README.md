@@ -1,5 +1,5 @@
 # nerts-rus-34
-a ZMK / Linux setup for a writing-focused 34-key nerts / Russian keyboard layout
+a ZMK / Linux setup for a writing-focused 34-key nerts / Russian keyboard layout with mouse keys.
 
 In Linux, set compose to pause, switch lang to rctrl
 Instructions on what to do with the 'custom' and 'evdev' files are in those files. Copy the contents of the ZMK keymap file to yours in Github. 
