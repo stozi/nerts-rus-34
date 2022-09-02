@@ -6,6 +6,8 @@ Instructions on what to do with the 'custom' and 'evdev' files are in those file
 
 Open this readme raw to view layout illustration with correct spacing, some chars displayed wrong otherwise. If confused, refer to the ZMK codes in the keymap file.
 
+Illustration:
+
 Base layer, mouse keys on the left. ZMK mouse keys require additional setup. If necessary, you can copy the west.yml file from my zmk-config repo.
 
 8   9<  0>  1&  2     3   4   5   6   7!
