@@ -12,6 +12,15 @@
 #define alfa 2
 #define alfacf 3
 
+&mmv {    
+        time-to-max-speed-ms = <400>;
+        acceleration-exponent=<1>;
+};
+&mwh {    
+        time-to-max-speed-ms = <1000>;
+        acceleration-exponent=<0>;
+}; 
+
 &mt {
         quick-tap-ms = <175>;
 };
