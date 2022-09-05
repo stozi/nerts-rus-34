@@ -4,7 +4,8 @@ a ZMK / Linux setup for a writing-focused 34-key nerts / Russian keyboard layout
 In Linux, set compose to pause, switch lang to rctrl.
 Instructions on what to do with the 'custom' and 'evdev' files are in those files. Copy the contents of my ZMK keymap file, found here: https://github.com/stozi/zmk-config/blob/master/config/a_dux.keymap to yours in Github. 
 
-Open this readme raw to view layout illustration with correct spacing, some chars displayed wrong otherwise. If confused, refer to the ZMK codes in the keymap file.
+Open this readme raw to view layout illustration with correct spacing, some chars displayed wrong otherwise. Prefix 'ct' or 'c' 
+means ctrl+...
 
 Illustration:
 
@@ -24,7 +25,7 @@ Hybrid ctrl/fn layer for base layer
 
 f8  f9  f0  f1  f2    f3  f4  f5  f6  f7
 
-[{  wu  wd  ]}  f11   esc cal cad cau car
+[{  whu whd ]}  f11   esc cal cad cau car
 
 `~  ct- ct+ \|  f12   mut chm cpd cpu ced
                 ctl
