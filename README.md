@@ -2,13 +2,13 @@
 a ZMK / Linux setup for a writing-focused 34-key nerts / Russian keyboard layout with mouse keys.
 
 In Linux, set compose to pause, switch lang to rctrl.
-Instructions on what to do with the 'custom' and 'evdev' files are in those files. Copy the contents of the ZMK keymap file to yours in Github. 
+Instructions on what to do with the 'custom' and 'evdev' files are in those files. Copy the contents of my ZMK keymap file, found here: https://github.com/stozi/zmk-config/blob/master/config/a_dux.keymap to yours in Github. 
 
 Open this readme raw to view layout illustration with correct spacing, some chars displayed wrong otherwise. If confused, refer to the ZMK codes in the keymap file.
 
 Illustration:
 
-Base layer, mouse keys on the left. ZMK mouse keys require additional setup. If necessary, you can copy the west.yml file from my zmk-config repo.
+Base layer, mouse keys on the left. ZMK mouse keys require additional setup. If ZMK mouse keys are still in beta and you haven't got it working yet, you can copy the contents of my west.yml file: https://github.com/stozi/zmk-config/blob/master/config/west.yml.
 
 8   9<  0>  1&  2     3   4   5   6   7!
 
