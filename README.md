@@ -1,15 +1,16 @@
 # nerts-rus-34
-a ZMK / Linux setup for a writing-focused 34-key nerts / Russian keyboard layout with mouse keys.
+a ZMK / Linux setup for a writing-focused 34-key nerts / Russian keyboard layout with mouse keys. Punctuation is heavily optimized for writing.
 
 In Linux, set compose to pause, switch lang to rctrl.
-Instructions on what to do with the 'custom' and 'evdev' files are in those files. Copy the contents of my ZMK keymap file, found here: https://github.com/stozi/zmk-config/blob/master/config/a_dux.keymap to yours in Github. 
+Instructions on what to do with the 'custom' and 'evdev' files are in those files. Copy the contents of my ZMK keymap file, found here: https://github.com/stozi/zmk-config/blob/master/config/a_dux.keymap to yours in Github. ZMK mouse keys require additional setup. If ZMK mouse keys are still in beta and you haven't got it working yet, you can copy the contents of my west.yml file: https://github.com/stozi/zmk-config/blob/master/config/west.yml.
+
 
 Open this readme raw to view layout illustration with correct spacing, some chars displayed wrong otherwise. Prefix 'ct' or 'c' 
 means ctrl+...
 
 Illustration:
 
-Base layer, mouse keys on the left. ZMK mouse keys require additional setup. If ZMK mouse keys are still in beta and you haven't got it working yet, you can copy the contents of my west.yml file: https://github.com/stozi/zmk-config/blob/master/config/west.yml.
+Base layer, mouse keys on the left.
 
 8   9<  0>  1&  2     3   4   5   6   7!
 
