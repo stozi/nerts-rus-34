@@ -25,7 +25,7 @@ layer2 layer1/enter  shift/space alt/bkspc
 Hybrid ctrl/fn layer for base layer
 
 ```
-f8  f9  f0  f1  f2    f3  f4  f5  f6  f7
+f8  f9  f10 f1  f2    f3  f4  f5  f6  f7
 
 [{  whu whd ]}  mut   esc cal cad cau car
 
