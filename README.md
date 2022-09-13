@@ -57,5 +57,5 @@ ctn ctr ctt cts ctw   cty X   Э   cti cta
 ctq F9  ctE ctc ctx   ctb ctf "   ?   Ё
                               @   !   –—
 
-null layer3/enter  shift/space alt/del   
+null layer2/enter  shift/space alt/del   
 ```
