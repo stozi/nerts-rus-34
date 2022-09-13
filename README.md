@@ -27,9 +27,9 @@ Hybrid ctrl/fn layer for base layer
 ```
 f8  f9  f0  f1  f2    f3  f4  f5  f6  f7
 
-[{  whu whd ]}  f11   esc cal cad cau car
+[{  whu whd ]}  mut   esc cal cad cau car
 
-`~  ct- ct+ \|  f12   mut chm cpd cpu ced
+`~  ct- ct+ \|  f11   f12 chm cpd cpu ced
                 ctl
 
 nul layer0/enter  shift/space alt/del   
