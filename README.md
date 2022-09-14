@@ -9,7 +9,7 @@ Prefixes 'ct' or 'c' mean ctrl+ below.
 
 Illustration:
 
-Base layer, mouse keys on the left. Switching bang and ampersand makes the former more accessible on the last layer. On the first two layers, mod-tap ctrl is there just to allow ctrl-shift-bkspc/del.
+Base layer, mouse keys on the left. Switching bang and ampersand makes the former more accessible on the last layer. 
 
 ```
 8   9<  0>  1&  2     3   4   5   6   7!
@@ -17,7 +17,6 @@ Base layer, mouse keys on the left. Switching bang and ampersand makes the forme
 ml  mu  md  mr  rmb   tab al  ad  au  ar
 
 mmb v-  v+  lmb ,     .   hm  pd  pu  ed
-                ctl
 
 layer2 layer1/enter  shift/space alt/bkspc   
 ```               
@@ -27,10 +26,9 @@ Hybrid ctrl/fn layer for base layer (skC is sticky ctrl, ctE is ctrl-enter)
 ```
 f8  f9  f10 f1  f2    f3  f4  f5  f6  f7
 
-skC whu whd ctE mut   esc cal cad cau car
+mut whu whd ctE skC   esc cal cad cau car
 
 `~  [{  ]}  \|  f11   f12 chm cpd cpu ced
-                ctl
 
 nul layer0/enter  shift/space alt/del   
 ```
