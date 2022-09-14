@@ -27,9 +27,9 @@ Hybrid ctrl/fn layer for base layer (skC is sticky ctrl, ctE is ctrl-enter)
 ```
 f8  f9  f10 f1  f2    f3  f4  f5  f6  f7
 
-[{  whu whd ]}  mut   esc cal cad cau car
+skC whu whd ctE mut   esc cal cad cau car
 
-`~  skC ctE \|  f11   f12 chm cpd cpu ced
+`~  [{  ]}  \|  f11   f12 chm cpd cpu ced
                 ctl
 
 nul layer0/enter  shift/space alt/del   
