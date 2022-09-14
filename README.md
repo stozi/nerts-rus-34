@@ -9,7 +9,7 @@ Prefixes 'ct' or 'c' mean ctrl+ below.
 
 Illustration:
 
-Base layer, mouse keys on the left. Switching bang and ampersand makes the former more accessible on the last layer.
+Base layer, mouse keys on the left. Switching bang and ampersand makes the former more accessible on the last layer. On the first two layers, mod-tap ctrl is there just to allow ctrl-shift-bkspc/del.
 
 ```
 8   9<  0>  1&  2     3   4   5   6   7!
