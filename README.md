@@ -43,17 +43,17 @@ q   j   m   c   x     b   f   '"  ,?  ./
 layer0 layer3/enter  shift/space alt/bkspc   
 ```
 
-Hybrid ctrl/fn layer for alpha layer. Here, nerts chars are below Russian, the positions of which are influenced by comfort and which letters are seldom used with ctrl. ^ is compose, L switch lang.
+Hybrid ctrl/fn layer for alpha layer. The positions of puncts/Ru alphas (and some handy puncts for Ru) are influenced by comfort and which letters are seldom used with ctrl. ^ is compose, L switch lang.
 
 ```
-ctp ctl ^   L   ctv   ctz Ъ   cto ctu -
-                          =+
+ctp ctl ^   L   ctv   ctz =+  cto ctu n/a
+                          Ъ           -_
 
-ctn ctr ctt cts ctw   cty X   Э   cti cta
-                          ;:  ()
+ctn ctr ctt cts ctw   cty ;:  ()  cti cta
+                          X   Э
 
-ctq ct- ct+ ctc ctx   ctb ctf "   ?   Ё
-                              @   !   –—
+ctq ct- ct+ ctc ctx   ctb ctf @   !   –—
+                              "   ?   Ё
 
 null layer2/enter  shift/space alt/del   
 ```
