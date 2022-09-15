@@ -26,7 +26,7 @@ Hybrid ctrl/fn layer for base layer (skC is sticky ctrl, which is only there for
 ```
 f8  f9  f10 f1  f2    f3  f4  f5  f6  f7
 
-mut whu whd ctE skC   esc cal cad cau car
+skC whu whd ctE mut   esc cal cad cau car
 
 `~  [{  ]}  \|  f11   f12 chm cpd cpu ced
 
