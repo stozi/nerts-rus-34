@@ -14,9 +14,9 @@ Base layer, mouse keys on the left. Switching bang and ampersand makes the forme
 ```
 8   9<  0>  1&  2     3   4   5   6   7!
 
-ml  mu  md  mr  rmb   tab al  ad  au  ar
+ml  mu  md  mr  .     tab al  ad  au  ar
 
-mmb v-  v+  lmb ,     .   hm  pd  pu  ed
+v-  rmb mmb lmb v+    ,   hm  pd  pu  ed
 
 layer2 layer1/enter  shift/space alt/bkspc   
 ```               
