@@ -30,7 +30,7 @@ mut whu whd ctE skC   esc cal cad cau car
 
 `~  [{  ]}  \|  f11   f12 chm cpd cpu ced
 
-nul layer0/enter  shift/space alt/del   
+null layer0/enter  shift/space alt/del   
 ```
 
 ```
