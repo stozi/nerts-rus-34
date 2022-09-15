@@ -12,7 +12,7 @@ Illustration:
 Base layer, mouse keys on the left. Switching bang and ampersand makes the former more accessible on the last layer. 
 
 ```
-8   9<  0>  1&  2     3   4   5   6   7!
+9<  0>  1&  2   3     4   5   6   7!  8
 
 ml  mu  md  mr  v+    tab al  ad  au  ar
 
@@ -24,11 +24,11 @@ layer2 layer1/enter  shift/space alt/bkspc
 Hybrid ctrl/fn layer for base layer (skC is sticky ctrl, which is only there for very rare ocassions, ctE is ctrl-enter)
 
 ```
-f8  f9  f10 f1  f2    f3  f4  f5  f6  f7
+f9  f10 f1  f2  f3    f4  f5  f6  f7  f8
 
 skC whu whd ctE mut   esc cal cad cau car
 
-`~  [{  ]}  \|  f11   f12 chm cpd cpu ced
+[{  ]}  `~  \|  f11   f12 chm cpd cpu ced
 
 null layer0/enter  shift/space alt/del   
 ```
