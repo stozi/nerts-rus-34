@@ -21,7 +21,7 @@ mmb v-  v+  lmb ,     .   hm  pd  pu  ed
 layer2 layer1/enter  shift/space alt/bkspc   
 ```               
 
-Hybrid ctrl/fn layer for base layer (skC is sticky ctrl, ctE is ctrl-enter)
+Hybrid ctrl/fn layer for base layer (skC is sticky ctrl, which is only there for very rare ocassions, ctE is ctrl-enter)
 
 ```
 f8  f9  f10 f1  f2    f3  f4  f5  f6  f7
