@@ -7,7 +7,7 @@ xkb_symbols "basic" {
 
     name[Group1] = "Custom";
 
-    key <TLDE> {[ endash,    emdash    ]};
+    key <TLDE> {[ at,        at        ]};
     key <AE01> {[ 1,         ampersand ]};
     key <AE07> {[ 7,         exclam    ]};
     key <AE09> {[ 9,         less      ]};
@@ -48,8 +48,10 @@ xkb_symbols "basic" {
     key <AB06> {[ b,         B         ]};
     key <AB07> {[ f,         F         ]};
     key <AB08> {[ apostrophe, quotedbl ]};
-    key <AB09> {[ comma,     question  ]};
-    key <AB10> {[ period,    slash     ]};
+    key <AB09> {[ comma,     slash     ]};
+    key <AB10> {[ period,    question  ]};
 
     key <KP1> {[ grave,    asciitilde ]};
+    key <KP2> {[ endash,    emdash    ]};
+
 };
