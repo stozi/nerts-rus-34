@@ -7,7 +7,7 @@ xkb_symbols "basic" {
 
     name[Group1] = "Custom";
 
-    key <TLDE> {[ at,        at        ]};
+    key <TLDE> {[ at,        dollar    ]};
     key <AE01> {[ 1,         ampersand ]};
     key <AE07> {[ 7,         exclam    ]};
     key <AE09> {[ 9,         less      ]};
