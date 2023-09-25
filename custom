@@ -12,7 +12,7 @@ xkb_symbols "basic" {
     key <AE07> {[ 7,         exclam    ]};
     key <AE09> {[ 9,         less      ]};
     key <AE10> {[ 0,         greater   ]};
-    key <AE11> {[ bracketleft,  braceleft  ]};
+    key <AE11> {[ endash,    emdash    ]};
     key <AE12> {[ bracketright, braceright ]};
 
     key <AD01> {[ p,         P         ]};
@@ -51,7 +51,7 @@ xkb_symbols "basic" {
     key <AB09> {[ comma,     slash     ]};
     key <AB10> {[ period,    question  ]};
 
-    key <KP1> {[ grave,    asciitilde ]};
-    key <KP2> {[ endash,    emdash    ]};
+    key <KP1> {[ grave,       asciitilde ]};
+    key <KP2> {[ bracketleft, braceleft  ]};
 
 };
