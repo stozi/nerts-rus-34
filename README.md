@@ -38,7 +38,7 @@ p   l   d   g   v     z   k   o   u   -_
 
 n   r   t   s   w     y   h   e   i   a
 
-q   j   m   c   x     b   f  .?   ,/  '"
+q   j   m   c   x     b   f   .?  ,/  '"
 
 layer0 layer3/enter  shift/space alt/bkspc   
 ```
