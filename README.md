@@ -38,7 +38,7 @@ p   l   d   g   v     z   k   o   u   -_
 
 n   r   t   s   w     y   h   e   i   a
 
-q   j   m   c   x     b   f   .?  ,/  '"
+q   j   m   c   x     b   f   '"  ,/  .?
 
 layer0 layer3/enter  shift/space alt/bkspc   
 ```
@@ -52,8 +52,8 @@ ctp ctl ^   L   ctv   ctz =+  cto ctu –—
 ctn ctr ctt cts ctw   cty ;:  ()  cti cta
                           X   Э
 
-ctq ct- ct+ ctc ctx   ctb ctf !   @   macro
-                              ?   Ё   
+ctq ct- ct+ ctc ctx   ctb ctf the @   !
+                                  Ё   ?
 
 null layer2/enter  shift/space alt/del   
 ```
